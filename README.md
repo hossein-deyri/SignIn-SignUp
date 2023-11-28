@@ -6,7 +6,7 @@
 
 - Created - 2023-11-28
 
-- Technologies Used - Html5, Css3, Sass, Swiper, BootStrap, JavaScript
+- Technologies Used - Html5, Tailwind, React
 
 - Role - Frontend
 
